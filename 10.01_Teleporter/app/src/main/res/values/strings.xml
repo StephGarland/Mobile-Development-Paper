@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Teleporter</string>
+    <string name="btn_teleport">Teleport</string>
+    <string name="label_longitude">Longitude:</string>
+    <string name="label_latitude">Latitude:</string>
+    <string name="label_nearestCity">Nearest City:</string>
+</resources>

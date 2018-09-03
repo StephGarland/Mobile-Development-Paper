@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Language Preferences</string>
+    <string name="hello_language">No language chosen yet...</string>
+    <string name="choose_language">Choose a language:</string>
+    <string name="choose_colour">Choose a colour:</string>
+    <string name="language_German">German</string>
+    <string name="language_French">French</string>
+    <string name="language_Spanish">Spanish</string>
+    <string name="colour_blue">Blue</string>
+    <string name="colour_pink">Pink</string>
+    <string name="colour_green">Green</string>
+    <string name="change_prefs">Change Preferences</string>
+</resources>

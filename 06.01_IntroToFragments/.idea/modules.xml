@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/06.01_IntroToFragments.iml" filepath="$PROJECT_DIR$/06.01_IntroToFragments.iml" />
+      <module fileurl="file://H:\2018 Mobile\garlasl1\06.01_IntroToFragments\06.01_IntroToFragments.iml" filepath="H:\2018 Mobile\garlasl1\06.01_IntroToFragments\06.01_IntroToFragments.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://H:\2018 Mobile\garlasl1\06.01_IntroToFragments\app\app.iml" filepath="H:\2018 Mobile\garlasl1\06.01_IntroToFragments\app\app.iml" />
+    </modules>
+  </component>
+</project>

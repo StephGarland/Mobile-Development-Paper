@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Similar Artists</string>
+    <string name="instructions">Search Similar</string>
+    <string name="hint">Type artist...</string>
+</resources>

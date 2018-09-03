@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Music Lesson Enrollment</string>
+    <string name="instrument_Accordian">Accordian</string>
+    <string name="instrument_Bassoon">Bassoon</string>
+    <string name="instrument_Cello">Cello</string>
+    <string name="enrolment_heading">Enroll for Music Lessons!</string>
+    <string name="choose_instrument_prompt">Choose your instrument</string>
+    <string name="choose_month_prompt">When do you want to start?</string>
+    <string name="enrolment_feedback1">You have enrolled for </string>
+    <string name="enrolment_feedback2">lessons in</string>
+    <string name="button_enrol">Enrol Me!</string>
+    <string name="splashScreen">Music School</string>
+    <string-array name="string_array_months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+        <item>May</item>
+        <item>June</item>
+        <item>July</item>
+        <item>August</item>
+        <item>September</item>
+        <item>October</item>
+        <item>November</item>
+        <item>December</item>
+    </string-array>
+</resources>

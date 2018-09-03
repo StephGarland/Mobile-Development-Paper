@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Don\'t Type @</string>
+    <string name="input_default">Type here</string>
+    <string name="popup_text">Don\'t Type @</string>
+</resources>

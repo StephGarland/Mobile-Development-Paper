@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Colour Changing Text</string>
+    <string name="main_title">First Date: Sabrina Benaim</string>
+    <string name="main_text">Hello.\n\nWhen I say hello, I mean thank you. When I say thank you, I mean I adore you and when I say I adore you, I mean I will check your horoscope.\n\nI mean when you leave the balloons that you carry in your laughter behind on my ceiling, well, I like them better than flowers. My body is a garden rooted in gratitude. “Thank you” is the biggest poem I’ve got inside of me.</string>
+    <string name="settings_title">Settings Screen</string>
+    <string name="settings_text">Hello.\n\nWhen I say hello, I mean thank you. When I say thank you, I mean I adore you and when I say I adore you, I mean I will check your horoscope.\n\nI mean when you leave the balloons that you carry in your laughter behind on my ceiling, well, I like them better than flowers. My body is a garden rooted in gratitude. “Thank you” is the biggest poem I’ve got inside of me.</string>
+    <string name="main_button">Change colour</string>
+</resources>

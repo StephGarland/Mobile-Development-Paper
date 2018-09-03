@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">06.02_DialogFragments</string>
+    <string name="main_button">Choose Background</string>
+    <string name="Kākā">Kākā</string>
+    <string name="Kea">Kea</string>
+    <string name="Kākāpō">Kākāpō</string>
+    <string name="Tūī">Tūī</string>
+    <string name="Kererū">Kererū</string>
+</resources>

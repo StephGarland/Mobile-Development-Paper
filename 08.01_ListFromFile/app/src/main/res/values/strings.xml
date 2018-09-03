@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">List from file demo</string>
+    <string name="activity_title">A list of birds:</string>
+</resources>

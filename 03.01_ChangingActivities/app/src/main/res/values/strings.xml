@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Changing Activities</string>
+    <string name="description_activityA">This is Activity A!</string>
+    <string name="description_activityB">Activity B, in da house!</string>
+    <string name="description_activityC">You\'ve got mail! And Activity C!</string>
+    <string name="button_changeActivity">Change Activity</string>
+    <string name="uri_makeThings">http://www.ravelry.com</string>
+</resources>

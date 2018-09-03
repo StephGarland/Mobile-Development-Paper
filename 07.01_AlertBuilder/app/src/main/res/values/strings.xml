@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Alert Builder</string>
+    <string name="main_btn">Order Pizza</string>
+    <string name="confirmation_pizza">Are you sure about delicious pizza?</string>
+    <string name="confirmation_positive">Yes</string>
+    <string name="confirmation_negative">No</string>
+</resources>

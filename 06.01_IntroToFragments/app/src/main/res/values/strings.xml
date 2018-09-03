@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Fragment Demo</string>
+    <string name="fragment_imageTitle">Fragment Showing an Image</string>
+    <string name="fragment_listTitle">Fragment Showing a List</string>
+    <string name="main_title">Main Activity</string>
+    <string name="button_image">Show Image</string>
+    <string name="button_list">Show List</string>
+    <string-array name="bird_names">
+        <item>Kererū</item>
+        <item>Tūī</item>
+        <item>Pukeko</item>
+        <item>Takahē</item>
+        <item>Kākāpō</item>
+        <item>Kākā</item>
+        <item>Kea</item>
+        <item>Albatross</item></string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
